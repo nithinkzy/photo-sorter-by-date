@@ -83,18 +83,13 @@ So I built this simple Python tool that does what every photo app should do —
 - Pillow (`pip install Pillow`)
 - Works on Windows, macOS, and Linux
 
----
-
-## 🖼️ Preview
-
-![Before and After Preview](preview.png)
 
 ---
 
 ## 🔗 Links
 
 💡 **GitHub Repository:** [https://github.com/yourusername/photo-organizer](https://github.com/nithinkzy/photo-sorter-by-date/)  
-📢 **Story behind the project:** [LinkedIn Post](https://www.linkedin.com/posts/nithin-kollerethu_github-nithinkzyphoto-sorter-by-date-activity-7389862933327147008-L9rO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWh5qkBnmTsBdhEcGB01XpolSovEeGO33c)
+📢 **Linkedin:** [LinkedIn Post](https://www.linkedin.com/posts/nithin-kollerethu_github-nithinkzyphoto-sorter-by-date-activity-7389862933327147008-L9rO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWh5qkBnmTsBdhEcGB01XpolSovEeGO33c)
 
 ---
 
